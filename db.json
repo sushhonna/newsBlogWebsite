@@ -1,0 +1,155 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "username": "sush",
+      "password": "sush123"
+    },
+    {
+      "id": "2",
+      "username": "sushma",
+      "password": "sushma123"
+    },
+    {
+      "id": "3",
+      "username": "it",
+      "password": "it123"
+    },
+    {
+      "id": "4",
+      "username": "shiv",
+      "password": "shiv123"
+    },
+    {
+      "id": "5",
+      "username": "vivek",
+      "password": "vivek123"
+    },
+    {
+      "id": "6639",
+      "username": "kai",
+      "password": "kai123"
+    }
+  ],
+  "newsBlog": [
+    {
+      "id": "1",
+      "news_name": "Unser Framework G&S",
+      "news_desc": "Wir freuen uns, die Erweiterung unseres innovativen Frameworks G&S Unityware ankündigen zu können. ",
+      "news_img": "https://www.gs-it-group.com/assets/images/d/hp_unityware-group-6f0b8568.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/unser-framework-g-s-unityware-erweitert-fuer-native-smartphone-apps"
+    },
+    {
+      "id": "2",
+      "news_name": "Ein Blick auf Entwicklungen",
+      "news_desc": "Eine zu erwartende Entwicklung ist der verstärkte Einsatz von generativer Künstlicher Intelligenz Unityware ",
+      "news_img": "https://www.gs-it-group.com/assets/images/f/IT-Trends2024-2-7285961f.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/entwicklungen-und-trends-2024"
+    },
+    {
+      "id": "3",
+      "news_name": "Die Faszination",
+      "news_desc": "Matthias ist verantwortlich für die Projektplanung und Koordination. Er definiert die Anforderungen Unityware",
+      "news_img": "https://www.gs-it-group.com/assets/images/7/ML-1920%20%281%20von%2017%29-bdaf9394.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/die-faszination-der-softwareentwicklung-ein-einblick-in-den-job-der-technischen-leitung"
+    },
+    {
+      "id": "4",
+      "news_name": "Die Rolle des Techni gemeinsamen",
+      "news_desc": "Matthias ist verantwortlich für die Projektplanung und Koordination. Er definiert die Anforderungen ",
+      "news_img": "https://www.gs-it-group.com/files/news/2023-10-11_Technische-Leitung/ML-1920%20%286%20von%2017%29.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/die-faszination-der-softwareentwicklung-ein-einblick-in-den-job-der-technischen-leitung"
+    },
+    {
+      "id": "5",
+      "news_name": "Karrieremesse CHANCE der Hochs",
+      "news_desc": "Am 8. November 2023 präsentieren wir uns auf der Karrieremesse CHANCE von der Hochschule. ",
+      "news_img": "https://www.gs-it-group.com/assets/images/3/a49_3-8bccef85.webp",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/karrieremesse-chance-der-hochschule-osnabrueck-2"
+    },
+    {
+      "id": "6",
+      "news_name": "Ausbildungsstart bei G&S - fün",
+      "news_desc": "Wir wünschen allen Auszubildenden einen guten Start bei G&S und heißen euch herzlich in unserem",
+      "news_img": "https://www.gs-it-group.com/assets/images/5/Azubi-Start%20%286%20von%209%29-cc005325.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/ausbildungsstart-bei-g-s-fuenf-neue-auszubildende-bei-g-s"
+    },
+    {
+      "id": "7",
+      "news_name": "Gemeinsam aktiv: Team G&S ist ",
+      "news_desc": "In den vergangenen Wochen konnte das Team der G&S IT Group an einigen sportlichen Aktivitä",
+      "news_img": "https://www.gs-it-group.com/files/news/2023-07-04_G%26S-sportlich-aktiv/IMG_20230701_093614.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/gemeinsam-aktiv-team-g-s-ist-sportlich-unterwegs"
+    },
+    {
+      "id": "8",
+      "news_name": "Die Rolle von Design in der So",
+      "news_desc": "Die Rolle von Design in der Softwareentwicklung: kreatives Design für herausragende User E",
+      "news_img": "https://www.gs-it-group.com/assets/images/9/Koksi-Interview%20%285%20von%207%29-2-54aff6e3.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/die-rolle-von-design-in-der-softwareentwicklung-kreatives-design-fuer-herausragende-user-experience"
+    },
+    {
+      "id": "9",
+      "news_name": "Innovationstage bei G&S – Raum",
+      "news_desc": "Innovationstage bei G&S – Raum für Kreativität und neue Ideen Die G&S IT Group hat in der ",
+      "news_img": "https://www.gs-it-group.com/assets/images/0/Innovationstage%20%2816%20von%2035%29-2-03199693.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/innovationstage-bei-g-s-raum-fuer-kreativitaet-und-neue-ideen"
+    },
+    {
+      "id": "10",
+      "news_name": "Azubi- und Job-Messe beim VfL ",
+      "news_desc": "Azubi- und Job-Messe beim VfL Osnabrück Azubi- und Job-Messe beim VfL Osnabrück",
+      "news_img": "https://www.gs-it-group.com/files/news/2023-05-11_VfL-Azubi-Job-Messe/VfL-2023-Azubi-und%20Jobmesse-Logo-Datum-Mai.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/azubi-und-job-messe-beim-vfl-osnabrueck"
+    },
+    {
+      "id": "11",
+      "news_name": "SATELLITE 2023 in Washington",
+      "news_desc": "Erneut hatten wir in diesem Jahr die Chance, an der @SATELLITE in Washington D.C. teilzune",
+      "news_img": "https://www.gs-it-group.com/assets/images/1/2023_Satellite%20%283%20von%2030%29-3a0752b5.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/satellite-2023-in-washington"
+    },
+    {
+      "id": "12",
+      "news_name": "G&S IT Group GmbH erhält Quali",
+      "news_desc": "G&S IT Group GmbH erhält Qualitätssiegel \"TOP AUSBILDUNG\" Group GmbH",
+      "news_img": "https://www.gs-it-group.com/assets/images/1/IHK_Urkunde_web%20%289%20von%2010%29-65b2520c.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/g-s-it-group-gmbh-erhaelt-qualitaetssiegel-top-ausbildung"
+    },
+    {
+      "id": "13",
+      "news_name": "Kurzpraktikum in der Druckerei",
+      "news_desc": "Kurzpraktikum in der Druckerei: Erfahrungsbericht einer Auszubildenden",
+      "news_img": "https://www.gs-it-group.com/assets/images/c/M%26E-Druckerei%20%2812%20von%2040%29-4236249b.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/kurzpraktikum-in-der-druckerei-erfahrungsbericht-einer-auszubildenden"
+    },
+    {
+      "id": "14",
+      "news_name": "Schüler der Thomas-Morus-Schul",
+      "news_desc": "Schüler der Thomas-Morus-Schule informieren sich über Ausbildungsmöglichkeiten",
+      "news_img": "https://www.gs-it-group.com/assets/images/2/Sch%C3%BClerbesuch%20%2812%20von%2014%29-6cf18c34.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/schueler-der-thomas-morus-schule-informieren-sich-ueber-ausbildungsmoeglichkeiten"
+    },
+    {
+      "id": "15",
+      "news_name": "G&S auf der SATELLITE 2023 in ",
+      "news_desc": "G&S auf der SATELLITE 2023 in Washington G&S auf der SATELLITE 2023 in Washington ",
+      "news_img": "https://www.gs-it-group.com/assets/images/3/SATELLITE-8a582f2a.png",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/g-s-auf-der-satellite-2023-in-washington"
+    },
+    {
+      "id": "16",
+      "news_name": "Zur Verstärkung unseres Teams ",
+      "news_desc": "Zur Verstärkung unseres Teams am Standort Osnabrück sind wir ständig auf der Suche nach ta",
+      "news_img": "https://www.gs-it-group.com/files/img/personal/gs-it-group-team.png",
+      "news_detail": "https://www.gs-it-group.com/de/karriere"
+    },
+    {
+      "id": "c927",
+      "news_name": "Ein typischer Arbeitstag ist g",
+      "news_desc": "Ein typischer Arbeitstag ist geprägt von Vielfalt und Abwechslung. Kein Tag gleicht dem an",
+      "news_img": "https://www.gs-it-group.com/files/news/2023-10-11_Technische-Leitung/ML-1920%20%2811%20von%2017%29.jpg",
+      "news_detail": "https://www.gs-it-group.com/de/news-details/die-faszination-der-softwareentwicklung-ein-einblick-in-den-job-der-technischen-leitung"
+    }
+  ]
+}
